@@ -14,6 +14,14 @@ Folder simulate_online_npcorr contains simulation studies which compare the batc
 Folder **Example_PHM** applies the batch and online nonparametric correlation algorithms to analyze the sensor data that were generated in industrial plant. The dataset comes from 2015 Prognostics and Health Management Society Competition.
 
 ### Citation
-
+If you use this package in any way, please cite the following preprint.
+```
+@article{xiao2017onlinecorrelation,
+  title={An Online Algorithm for Nonparametric Correlations},
+  author={Xiao, Wei},
+  journal={arXiv preprint arXiv:1712.01521},
+  year={2017}
+}
+```
 ### Contacts
 Wei Xiao <wxiao0421@gmail.com>    
