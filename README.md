@@ -18,12 +18,15 @@ Folder **Example_PHM** applies the batch and online nonparametric correlation al
 ### Citation
 If you use this package in any way, please cite the following preprint.
 ```
-@article{xiao2017onlinecorrelation,
-  title={An Online Algorithm for Nonparametric Correlations},
-  author={Xiao, Wei},
-  journal={arXiv preprint arXiv:1712.01521},
-  year={2017}
-}
+@INPROCEEDINGS{9006483,
+  author={W. {Xiao}},
+  booktitle={2019 IEEE International Conference on Big Data (Big Data)}, 
+  title={Novel Online Algorithms for Nonparametric Correlations with Application to Analyze Sensor Data}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={404-412},
+  doi={10.1109/BigData47090.2019.9006483}}
 ```
 ### Contacts
 Wei Xiao <wxiao@ncsu.edu>    
